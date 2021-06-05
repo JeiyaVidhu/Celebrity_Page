@@ -1,0 +1,10 @@
+body{
+    background-color:lightpink;
+    text-align:center;
+    font-size:2.5em
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
